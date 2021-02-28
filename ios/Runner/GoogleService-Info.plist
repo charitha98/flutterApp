@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>896354550519-b9ffp7m416te8gd0c97j4dprpgu198p1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.896354550519-b9ffp7m416te8gd0c97j4dprpgu198p1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>896354550519-v0taqvrpo6d4hlucloo03k92q95g2em4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwta_TTaagg06GWYRoGQfojwRIY-bmSmc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896354550519</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>namalpath.digitalpulz.sd012020</string>
+	<key>PROJECT_ID</key>
+	<string>megapulz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>megapulz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896354550519:ios:d5f70990f3d00f3ffdc9f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://megapulz.firebaseio.com</string>
+</dict>
+</plist>

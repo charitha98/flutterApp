@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896354550519",
+    "firebase_url": "https://megapulz.firebaseio.com",
+    "project_id": "megapulz",
+    "storage_bucket": "megapulz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896354550519:android:ae1a282a86b9c568fdc9f2",
+        "android_client_info": {
+          "package_name": "namalpath.digitalpulz.sd012020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896354550519-clqigq590q21rmkompvrqttmm5f0tgu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsPp5VsPEqZA0UPagF-a5zDubBAeYnv-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896354550519-clqigq590q21rmkompvrqttmm5f0tgu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
